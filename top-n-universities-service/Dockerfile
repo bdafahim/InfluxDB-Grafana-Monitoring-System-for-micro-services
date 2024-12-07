@@ -13,5 +13,7 @@ RUN pip install -r requirements.txt
 
 # Expose port
 EXPOSE 4201
+EXPOSE 8086
+
 
 CMD ["python", "top-n-university-service.py"]

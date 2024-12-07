@@ -2,18 +2,22 @@ version: '3.9'
 
 services:
   ranking-uploader:
-    image: badrudduza/university-list:1.2
+    image: badrudduza/university-list:2.0
     container_name: ranking-uploader
     ports:
       - "4200:4200"
     restart: unless-stopped
 
   top-universities:
-    image: badrudduza/top-universities:1.3
+    image: badrudduza/top-universities:2.5
     container_name: top-universities
     environment:
       - RANKING_UPLOADER_URL=http://ranking-uploader:4200/rankings
+      - INFLUXDB_URL=http://influxdb-service-sdx-assignment-ahmedbad.2.rahtiapp.fi:8086
       - TOP_N=5
+      - INFLUXDB_TOKEN=my-token
+      - INFLUXDB_ORG=my-org
+      - INFLUXDB_BUCKET=my-bucket
     ports:
       - "4201:4201"
     depends_on:

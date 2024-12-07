@@ -1,0 +1,70 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: influxdb
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: influxdb
+  template:
+    metadata:
+      labels:
+        app: influxdb
+    spec:
+      containers:
+      - name: influxdb
+        image: influxdb:2.0
+        ports:
+        - containerPort: 8086
+        env:
+        - name: DOCKER_INFLUXDB_INIT_MODE
+          value: "setup"
+        - name: DOCKER_INFLUXDB_INIT_USERNAME
+          value: "admin"
+        - name: DOCKER_INFLUXDB_INIT_PASSWORD
+          value: "admin123"
+        - name: DOCKER_INFLUXDB_INIT_ORG
+          value: "my-org"
+        - name: DOCKER_INFLUXDB_INIT_BUCKET
+          value: "my-bucket"
+        - name: DOCKER_INFLUXDB_INIT_RETENTION
+          value: "30d"
+        volumeMounts:
+        - name: influxdb-data
+          mountPath: /var/lib/influxdb2  # Persistent storage for InfluxDB
+        - name: influxdb-config
+          mountPath: /etc/influxdb2  # Persistent storage for configuration
+      volumes:
+      - name: influxdb-data
+        persistentVolumeClaim:
+          claimName: influxdb-data-pvc
+      - name: influxdb-config
+        emptyDir: {}  # Temporary storage for configuration files (or use PVC if needed)
+
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: influxdb-data-pvc
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 10Gi  # Request 10Gi for InfluxDB data
+  storageClassName: standard-csi
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: influxdb-service
+spec:
+  selector:
+    app: influxdb
+  ports:
+    - protocol: TCP
+      port: 8086
+      targetPort: 8086
+  type: ClusterIP
