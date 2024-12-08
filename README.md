@@ -87,14 +87,14 @@ paste it in the query of the dashboard builde of grafana
 Select which range of data you want to see
 
 ## Directory Structure
-├── influxdb.yaml           # Kubernetes configuration for InfluxDB
-├── grafana.yaml            # Kubernetes configuration for Grafana
-├── docker-compose.yaml     # docker-compose file
-├── top-universities/       # top-universities Microservice source code
-│   ├── Dockerfile          # Dockerfile for building the microservice
-│   ├── top-n-university-service.py   # application code
-│   ├── requirements.txt    # Python dependencies
-├── ranking-uploader/       # ranking-uploader Microservice source code
-│   ├── Dockerfile          # Dockerfile for building the microservice
+├── influxdb.yaml                 # Kubernetes configuration for InfluxDB
+├── grafana.yaml                  # Kubernetes configuration for Grafana
+├── docker-compose.yaml           # docker-compose file
+├── top-universities/             # top-universities Microservice source code
+│   ├── Dockerfile                # Dockerfile for building the microservice
+│   ├── top-n-university-service.py  
+│   ├── requirements.txt          # Python dependencies
+├── ranking-uploader/             # ranking-uploader Microservice source code
+│   ├── Dockerfile                # Dockerfile for building the microservice
 │   ├── university-list-service.py              # application code
-│   ├── requirements.txt    # Python dependencies
+│   ├── requirements.txt          # Python dependencies
