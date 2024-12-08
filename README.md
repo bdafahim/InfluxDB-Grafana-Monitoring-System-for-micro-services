@@ -85,3 +85,6 @@ Click 'building a dashboard'
 Copy the query script from influxdb explore
 paste it in the query of the dashboard builde of grafana
 Select which range of data you want to see
+
+## Architecture diagram
+![Architecture Diagram](https://raw.githubusercontent.com/bdafahim/Final-Project-SDS/main/ARCH.drawio.png)
