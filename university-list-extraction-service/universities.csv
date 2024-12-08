@@ -1,101 +1,1001 @@
 University,Rank
-Princeton University,1
-Massachusetts Institute of Technology,2
-Harvard University,3
-Stanford University,4
-Yale University,5
-California Institute of Technology,6
-Duke University,7
-Johns Hopkins University,8
-Northwestern University,9
-University of Pennsylvania,10
-University of Chicago,11
-Cornell University,12
-Columbia University,13
-Brown University,14
-"University of California, Los Angeles",15
-Dartmouth College,16
-"University of California, Berkeley",17
-Vanderbilt University,18
-University of Notre Dame,19
-Rice University,20
-Washington University in St. Louis,21
-University of Michigan,22
-Carnegie Mellon University,23
-University of Virginia,24
-Georgetown University,25
-Emory University,26
-University of Southern California,27
-"University of North Carolina, Chapel Hill",28
-"University of California, San Diego",29
-University of Florida,30
-The University of Texas at Austin,31
-New York University,32
-University of Illinois Urbana-Champaign,33
-"University of California, Irvine",34
-"University of California, Davis",35
-Georgia Institute of Technology,36
-Tufts University,37
-Boston College,38
-University of Wisconsin–Madison,39
-"University of California, Santa Barbara",40
-University of Washington,41
-University of Connecticut,42
-University of Georgia,43
-The Ohio State University,44
-Purdue University,45
-Pennsylvania State University,46
-University of Maryland,47
-University of Pittsburgh,48
-Rutgers University–New Brunswick,49
-University of Minnesota Twin Cities,50
-Texas A&M University,51
-Michigan State University,52
-Indiana University Bloomington,53
-University of Massachusetts Amherst,54
-University of Delaware,55
-University of Colorado Boulder,56
-University of Iowa,57
-Virginia Tech,58
-Clemson University,59
-Binghamton University,60
-University of Kansas,61
-University of Arizona,62
-University of Tennessee,63
-University of Missouri,64
-University of Oklahoma,65
-University of Oregon,66
-University of Kentucky,67
-University of Alabama,68
-University of Nebraska–Lincoln,69
-University of South Carolina,70
-University of Utah,71
-University of New Hampshire,72
-University of Vermont,73
-University of Rhode Island,74
-University of Mississippi,75
-University of Arkansas,76
-University of Louisville,77
-University of Central Florida,78
-University at Buffalo,79
-University of Hawaii at Mānoa,80
-University of Idaho,81
-University of Maine,82
-University of Montana,83
-"University of Nevada, Reno",84
-University of New Mexico,85
-University of North Dakota,86
-University of South Dakota,87
-University of Wyoming,88
-West Virginia University,89
-Wichita State University,90
-Wright State University,91
-Xavier University,92
-Yale University,93
-Yeshiva University,94
-Youngstown State University,95
-University of Alaska Fairbanks,96
-University of Baltimore,97
-University of Bridgeport,98
-University of Central Arkansas,99
-University of Central Missouri,100
+University of Location 1,1
+University of Location 2,2
+Location 3 Institute of Technology,3
+University of Location 4,4
+University of Location 5,5
+Location 6 Institute of Technology,6
+University of Location 7,7
+University of Location 8,8
+Location 9 Institute of Technology,9
+University of Location 10,10
+University of Location 11,11
+Location 12 Institute of Technology,12
+University of Location 13,13
+University of Location 14,14
+Location 15 Institute of Technology,15
+University of Location 16,16
+University of Location 17,17
+Location 18 Institute of Technology,18
+University of Location 19,19
+University of Location 20,20
+Location 21 Institute of Technology,21
+University of Location 22,22
+University of Location 23,23
+Location 24 Institute of Technology,24
+University of Location 25,25
+University of Location 26,26
+Location 27 Institute of Technology,27
+University of Location 28,28
+University of Location 29,29
+Location 30 Institute of Technology,30
+University of Location 31,31
+University of Location 32,32
+Location 33 Institute of Technology,33
+University of Location 34,34
+University of Location 35,35
+Location 36 Institute of Technology,36
+University of Location 37,37
+University of Location 38,38
+Location 39 Institute of Technology,39
+University of Location 40,40
+University of Location 41,41
+Location 42 Institute of Technology,42
+University of Location 43,43
+University of Location 44,44
+Location 45 Institute of Technology,45
+University of Location 46,46
+University of Location 47,47
+Location 48 Institute of Technology,48
+University of Location 49,49
+University of Location 50,50
+Location 51 Institute of Technology,51
+University of Location 52,52
+University of Location 53,53
+Location 54 Institute of Technology,54
+University of Location 55,55
+University of Location 56,56
+Location 57 Institute of Technology,57
+University of Location 58,58
+University of Location 59,59
+Location 60 Institute of Technology,60
+University of Location 61,61
+University of Location 62,62
+Location 63 Institute of Technology,63
+University of Location 64,64
+University of Location 65,65
+Location 66 Institute of Technology,66
+University of Location 67,67
+University of Location 68,68
+Location 69 Institute of Technology,69
+University of Location 70,70
+University of Location 71,71
+Location 72 Institute of Technology,72
+University of Location 73,73
+University of Location 74,74
+Location 75 Institute of Technology,75
+University of Location 76,76
+University of Location 77,77
+Location 78 Institute of Technology,78
+University of Location 79,79
+University of Location 80,80
+Location 81 Institute of Technology,81
+University of Location 82,82
+University of Location 83,83
+Location 84 Institute of Technology,84
+University of Location 85,85
+University of Location 86,86
+Location 87 Institute of Technology,87
+University of Location 88,88
+University of Location 89,89
+Location 90 Institute of Technology,90
+University of Location 91,91
+University of Location 92,92
+Location 93 Institute of Technology,93
+University of Location 94,94
+University of Location 95,95
+Location 96 Institute of Technology,96
+University of Location 97,97
+University of Location 98,98
+Location 99 Institute of Technology,99
+University of Location 100,100
+University of Location 101,101
+Location 102 Institute of Technology,102
+University of Location 103,103
+University of Location 104,104
+Location 105 Institute of Technology,105
+University of Location 106,106
+University of Location 107,107
+Location 108 Institute of Technology,108
+University of Location 109,109
+University of Location 110,110
+Location 111 Institute of Technology,111
+University of Location 112,112
+University of Location 113,113
+Location 114 Institute of Technology,114
+University of Location 115,115
+University of Location 116,116
+Location 117 Institute of Technology,117
+University of Location 118,118
+University of Location 119,119
+Location 120 Institute of Technology,120
+University of Location 121,121
+University of Location 122,122
+Location 123 Institute of Technology,123
+University of Location 124,124
+University of Location 125,125
+Location 126 Institute of Technology,126
+University of Location 127,127
+University of Location 128,128
+Location 129 Institute of Technology,129
+University of Location 130,130
+University of Location 131,131
+Location 132 Institute of Technology,132
+University of Location 133,133
+University of Location 134,134
+Location 135 Institute of Technology,135
+University of Location 136,136
+University of Location 137,137
+Location 138 Institute of Technology,138
+University of Location 139,139
+University of Location 140,140
+Location 141 Institute of Technology,141
+University of Location 142,142
+University of Location 143,143
+Location 144 Institute of Technology,144
+University of Location 145,145
+University of Location 146,146
+Location 147 Institute of Technology,147
+University of Location 148,148
+University of Location 149,149
+Location 150 Institute of Technology,150
+University of Location 151,151
+University of Location 152,152
+Location 153 Institute of Technology,153
+University of Location 154,154
+University of Location 155,155
+Location 156 Institute of Technology,156
+University of Location 157,157
+University of Location 158,158
+Location 159 Institute of Technology,159
+University of Location 160,160
+University of Location 161,161
+Location 162 Institute of Technology,162
+University of Location 163,163
+University of Location 164,164
+Location 165 Institute of Technology,165
+University of Location 166,166
+University of Location 167,167
+Location 168 Institute of Technology,168
+University of Location 169,169
+University of Location 170,170
+Location 171 Institute of Technology,171
+University of Location 172,172
+University of Location 173,173
+Location 174 Institute of Technology,174
+University of Location 175,175
+University of Location 176,176
+Location 177 Institute of Technology,177
+University of Location 178,178
+University of Location 179,179
+Location 180 Institute of Technology,180
+University of Location 181,181
+University of Location 182,182
+Location 183 Institute of Technology,183
+University of Location 184,184
+University of Location 185,185
+Location 186 Institute of Technology,186
+University of Location 187,187
+University of Location 188,188
+Location 189 Institute of Technology,189
+University of Location 190,190
+University of Location 191,191
+Location 192 Institute of Technology,192
+University of Location 193,193
+University of Location 194,194
+Location 195 Institute of Technology,195
+University of Location 196,196
+University of Location 197,197
+Location 198 Institute of Technology,198
+University of Location 199,199
+University of Location 200,200
+Location 201 Institute of Technology,201
+University of Location 202,202
+University of Location 203,203
+Location 204 Institute of Technology,204
+University of Location 205,205
+University of Location 206,206
+Location 207 Institute of Technology,207
+University of Location 208,208
+University of Location 209,209
+Location 210 Institute of Technology,210
+University of Location 211,211
+University of Location 212,212
+Location 213 Institute of Technology,213
+University of Location 214,214
+University of Location 215,215
+Location 216 Institute of Technology,216
+University of Location 217,217
+University of Location 218,218
+Location 219 Institute of Technology,219
+University of Location 220,220
+University of Location 221,221
+Location 222 Institute of Technology,222
+University of Location 223,223
+University of Location 224,224
+Location 225 Institute of Technology,225
+University of Location 226,226
+University of Location 227,227
+Location 228 Institute of Technology,228
+University of Location 229,229
+University of Location 230,230
+Location 231 Institute of Technology,231
+University of Location 232,232
+University of Location 233,233
+Location 234 Institute of Technology,234
+University of Location 235,235
+University of Location 236,236
+Location 237 Institute of Technology,237
+University of Location 238,238
+University of Location 239,239
+Location 240 Institute of Technology,240
+University of Location 241,241
+University of Location 242,242
+Location 243 Institute of Technology,243
+University of Location 244,244
+University of Location 245,245
+Location 246 Institute of Technology,246
+University of Location 247,247
+University of Location 248,248
+Location 249 Institute of Technology,249
+University of Location 250,250
+University of Location 251,251
+Location 252 Institute of Technology,252
+University of Location 253,253
+University of Location 254,254
+Location 255 Institute of Technology,255
+University of Location 256,256
+University of Location 257,257
+Location 258 Institute of Technology,258
+University of Location 259,259
+University of Location 260,260
+Location 261 Institute of Technology,261
+University of Location 262,262
+University of Location 263,263
+Location 264 Institute of Technology,264
+University of Location 265,265
+University of Location 266,266
+Location 267 Institute of Technology,267
+University of Location 268,268
+University of Location 269,269
+Location 270 Institute of Technology,270
+University of Location 271,271
+University of Location 272,272
+Location 273 Institute of Technology,273
+University of Location 274,274
+University of Location 275,275
+Location 276 Institute of Technology,276
+University of Location 277,277
+University of Location 278,278
+Location 279 Institute of Technology,279
+University of Location 280,280
+University of Location 281,281
+Location 282 Institute of Technology,282
+University of Location 283,283
+University of Location 284,284
+Location 285 Institute of Technology,285
+University of Location 286,286
+University of Location 287,287
+Location 288 Institute of Technology,288
+University of Location 289,289
+University of Location 290,290
+Location 291 Institute of Technology,291
+University of Location 292,292
+University of Location 293,293
+Location 294 Institute of Technology,294
+University of Location 295,295
+University of Location 296,296
+Location 297 Institute of Technology,297
+University of Location 298,298
+University of Location 299,299
+Location 300 Institute of Technology,300
+University of Location 301,301
+University of Location 302,302
+Location 303 Institute of Technology,303
+University of Location 304,304
+University of Location 305,305
+Location 306 Institute of Technology,306
+University of Location 307,307
+University of Location 308,308
+Location 309 Institute of Technology,309
+University of Location 310,310
+University of Location 311,311
+Location 312 Institute of Technology,312
+University of Location 313,313
+University of Location 314,314
+Location 315 Institute of Technology,315
+University of Location 316,316
+University of Location 317,317
+Location 318 Institute of Technology,318
+University of Location 319,319
+University of Location 320,320
+Location 321 Institute of Technology,321
+University of Location 322,322
+University of Location 323,323
+Location 324 Institute of Technology,324
+University of Location 325,325
+University of Location 326,326
+Location 327 Institute of Technology,327
+University of Location 328,328
+University of Location 329,329
+Location 330 Institute of Technology,330
+University of Location 331,331
+University of Location 332,332
+Location 333 Institute of Technology,333
+University of Location 334,334
+University of Location 335,335
+Location 336 Institute of Technology,336
+University of Location 337,337
+University of Location 338,338
+Location 339 Institute of Technology,339
+University of Location 340,340
+University of Location 341,341
+Location 342 Institute of Technology,342
+University of Location 343,343
+University of Location 344,344
+Location 345 Institute of Technology,345
+University of Location 346,346
+University of Location 347,347
+Location 348 Institute of Technology,348
+University of Location 349,349
+University of Location 350,350
+Location 351 Institute of Technology,351
+University of Location 352,352
+University of Location 353,353
+Location 354 Institute of Technology,354
+University of Location 355,355
+University of Location 356,356
+Location 357 Institute of Technology,357
+University of Location 358,358
+University of Location 359,359
+Location 360 Institute of Technology,360
+University of Location 361,361
+University of Location 362,362
+Location 363 Institute of Technology,363
+University of Location 364,364
+University of Location 365,365
+Location 366 Institute of Technology,366
+University of Location 367,367
+University of Location 368,368
+Location 369 Institute of Technology,369
+University of Location 370,370
+University of Location 371,371
+Location 372 Institute of Technology,372
+University of Location 373,373
+University of Location 374,374
+Location 375 Institute of Technology,375
+University of Location 376,376
+University of Location 377,377
+Location 378 Institute of Technology,378
+University of Location 379,379
+University of Location 380,380
+Location 381 Institute of Technology,381
+University of Location 382,382
+University of Location 383,383
+Location 384 Institute of Technology,384
+University of Location 385,385
+University of Location 386,386
+Location 387 Institute of Technology,387
+University of Location 388,388
+University of Location 389,389
+Location 390 Institute of Technology,390
+University of Location 391,391
+University of Location 392,392
+Location 393 Institute of Technology,393
+University of Location 394,394
+University of Location 395,395
+Location 396 Institute of Technology,396
+University of Location 397,397
+University of Location 398,398
+Location 399 Institute of Technology,399
+University of Location 400,400
+University of Location 401,401
+Location 402 Institute of Technology,402
+University of Location 403,403
+University of Location 404,404
+Location 405 Institute of Technology,405
+University of Location 406,406
+University of Location 407,407
+Location 408 Institute of Technology,408
+University of Location 409,409
+University of Location 410,410
+Location 411 Institute of Technology,411
+University of Location 412,412
+University of Location 413,413
+Location 414 Institute of Technology,414
+University of Location 415,415
+University of Location 416,416
+Location 417 Institute of Technology,417
+University of Location 418,418
+University of Location 419,419
+Location 420 Institute of Technology,420
+University of Location 421,421
+University of Location 422,422
+Location 423 Institute of Technology,423
+University of Location 424,424
+University of Location 425,425
+Location 426 Institute of Technology,426
+University of Location 427,427
+University of Location 428,428
+Location 429 Institute of Technology,429
+University of Location 430,430
+University of Location 431,431
+Location 432 Institute of Technology,432
+University of Location 433,433
+University of Location 434,434
+Location 435 Institute of Technology,435
+University of Location 436,436
+University of Location 437,437
+Location 438 Institute of Technology,438
+University of Location 439,439
+University of Location 440,440
+Location 441 Institute of Technology,441
+University of Location 442,442
+University of Location 443,443
+Location 444 Institute of Technology,444
+University of Location 445,445
+University of Location 446,446
+Location 447 Institute of Technology,447
+University of Location 448,448
+University of Location 449,449
+Location 450 Institute of Technology,450
+University of Location 451,451
+University of Location 452,452
+Location 453 Institute of Technology,453
+University of Location 454,454
+University of Location 455,455
+Location 456 Institute of Technology,456
+University of Location 457,457
+University of Location 458,458
+Location 459 Institute of Technology,459
+University of Location 460,460
+University of Location 461,461
+Location 462 Institute of Technology,462
+University of Location 463,463
+University of Location 464,464
+Location 465 Institute of Technology,465
+University of Location 466,466
+University of Location 467,467
+Location 468 Institute of Technology,468
+University of Location 469,469
+University of Location 470,470
+Location 471 Institute of Technology,471
+University of Location 472,472
+University of Location 473,473
+Location 474 Institute of Technology,474
+University of Location 475,475
+University of Location 476,476
+Location 477 Institute of Technology,477
+University of Location 478,478
+University of Location 479,479
+Location 480 Institute of Technology,480
+University of Location 481,481
+University of Location 482,482
+Location 483 Institute of Technology,483
+University of Location 484,484
+University of Location 485,485
+Location 486 Institute of Technology,486
+University of Location 487,487
+University of Location 488,488
+Location 489 Institute of Technology,489
+University of Location 490,490
+University of Location 491,491
+Location 492 Institute of Technology,492
+University of Location 493,493
+University of Location 494,494
+Location 495 Institute of Technology,495
+University of Location 496,496
+University of Location 497,497
+Location 498 Institute of Technology,498
+University of Location 499,499
+University of Location 500,500
+Location 501 Institute of Technology,501
+University of Location 502,502
+University of Location 503,503
+Location 504 Institute of Technology,504
+University of Location 505,505
+University of Location 506,506
+Location 507 Institute of Technology,507
+University of Location 508,508
+University of Location 509,509
+Location 510 Institute of Technology,510
+University of Location 511,511
+University of Location 512,512
+Location 513 Institute of Technology,513
+University of Location 514,514
+University of Location 515,515
+Location 516 Institute of Technology,516
+University of Location 517,517
+University of Location 518,518
+Location 519 Institute of Technology,519
+University of Location 520,520
+University of Location 521,521
+Location 522 Institute of Technology,522
+University of Location 523,523
+University of Location 524,524
+Location 525 Institute of Technology,525
+University of Location 526,526
+University of Location 527,527
+Location 528 Institute of Technology,528
+University of Location 529,529
+University of Location 530,530
+Location 531 Institute of Technology,531
+University of Location 532,532
+University of Location 533,533
+Location 534 Institute of Technology,534
+University of Location 535,535
+University of Location 536,536
+Location 537 Institute of Technology,537
+University of Location 538,538
+University of Location 539,539
+Location 540 Institute of Technology,540
+University of Location 541,541
+University of Location 542,542
+Location 543 Institute of Technology,543
+University of Location 544,544
+University of Location 545,545
+Location 546 Institute of Technology,546
+University of Location 547,547
+University of Location 548,548
+Location 549 Institute of Technology,549
+University of Location 550,550
+University of Location 551,551
+Location 552 Institute of Technology,552
+University of Location 553,553
+University of Location 554,554
+Location 555 Institute of Technology,555
+University of Location 556,556
+University of Location 557,557
+Location 558 Institute of Technology,558
+University of Location 559,559
+University of Location 560,560
+Location 561 Institute of Technology,561
+University of Location 562,562
+University of Location 563,563
+Location 564 Institute of Technology,564
+University of Location 565,565
+University of Location 566,566
+Location 567 Institute of Technology,567
+University of Location 568,568
+University of Location 569,569
+Location 570 Institute of Technology,570
+University of Location 571,571
+University of Location 572,572
+Location 573 Institute of Technology,573
+University of Location 574,574
+University of Location 575,575
+Location 576 Institute of Technology,576
+University of Location 577,577
+University of Location 578,578
+Location 579 Institute of Technology,579
+University of Location 580,580
+University of Location 581,581
+Location 582 Institute of Technology,582
+University of Location 583,583
+University of Location 584,584
+Location 585 Institute of Technology,585
+University of Location 586,586
+University of Location 587,587
+Location 588 Institute of Technology,588
+University of Location 589,589
+University of Location 590,590
+Location 591 Institute of Technology,591
+University of Location 592,592
+University of Location 593,593
+Location 594 Institute of Technology,594
+University of Location 595,595
+University of Location 596,596
+Location 597 Institute of Technology,597
+University of Location 598,598
+University of Location 599,599
+Location 600 Institute of Technology,600
+University of Location 601,601
+University of Location 602,602
+Location 603 Institute of Technology,603
+University of Location 604,604
+University of Location 605,605
+Location 606 Institute of Technology,606
+University of Location 607,607
+University of Location 608,608
+Location 609 Institute of Technology,609
+University of Location 610,610
+University of Location 611,611
+Location 612 Institute of Technology,612
+University of Location 613,613
+University of Location 614,614
+Location 615 Institute of Technology,615
+University of Location 616,616
+University of Location 617,617
+Location 618 Institute of Technology,618
+University of Location 619,619
+University of Location 620,620
+Location 621 Institute of Technology,621
+University of Location 622,622
+University of Location 623,623
+Location 624 Institute of Technology,624
+University of Location 625,625
+University of Location 626,626
+Location 627 Institute of Technology,627
+University of Location 628,628
+University of Location 629,629
+Location 630 Institute of Technology,630
+University of Location 631,631
+University of Location 632,632
+Location 633 Institute of Technology,633
+University of Location 634,634
+University of Location 635,635
+Location 636 Institute of Technology,636
+University of Location 637,637
+University of Location 638,638
+Location 639 Institute of Technology,639
+University of Location 640,640
+University of Location 641,641
+Location 642 Institute of Technology,642
+University of Location 643,643
+University of Location 644,644
+Location 645 Institute of Technology,645
+University of Location 646,646
+University of Location 647,647
+Location 648 Institute of Technology,648
+University of Location 649,649
+University of Location 650,650
+Location 651 Institute of Technology,651
+University of Location 652,652
+University of Location 653,653
+Location 654 Institute of Technology,654
+University of Location 655,655
+University of Location 656,656
+Location 657 Institute of Technology,657
+University of Location 658,658
+University of Location 659,659
+Location 660 Institute of Technology,660
+University of Location 661,661
+University of Location 662,662
+Location 663 Institute of Technology,663
+University of Location 664,664
+University of Location 665,665
+Location 666 Institute of Technology,666
+University of Location 667,667
+University of Location 668,668
+Location 669 Institute of Technology,669
+University of Location 670,670
+University of Location 671,671
+Location 672 Institute of Technology,672
+University of Location 673,673
+University of Location 674,674
+Location 675 Institute of Technology,675
+University of Location 676,676
+University of Location 677,677
+Location 678 Institute of Technology,678
+University of Location 679,679
+University of Location 680,680
+Location 681 Institute of Technology,681
+University of Location 682,682
+University of Location 683,683
+Location 684 Institute of Technology,684
+University of Location 685,685
+University of Location 686,686
+Location 687 Institute of Technology,687
+University of Location 688,688
+University of Location 689,689
+Location 690 Institute of Technology,690
+University of Location 691,691
+University of Location 692,692
+Location 693 Institute of Technology,693
+University of Location 694,694
+University of Location 695,695
+Location 696 Institute of Technology,696
+University of Location 697,697
+University of Location 698,698
+Location 699 Institute of Technology,699
+University of Location 700,700
+University of Location 701,701
+Location 702 Institute of Technology,702
+University of Location 703,703
+University of Location 704,704
+Location 705 Institute of Technology,705
+University of Location 706,706
+University of Location 707,707
+Location 708 Institute of Technology,708
+University of Location 709,709
+University of Location 710,710
+Location 711 Institute of Technology,711
+University of Location 712,712
+University of Location 713,713
+Location 714 Institute of Technology,714
+University of Location 715,715
+University of Location 716,716
+Location 717 Institute of Technology,717
+University of Location 718,718
+University of Location 719,719
+Location 720 Institute of Technology,720
+University of Location 721,721
+University of Location 722,722
+Location 723 Institute of Technology,723
+University of Location 724,724
+University of Location 725,725
+Location 726 Institute of Technology,726
+University of Location 727,727
+University of Location 728,728
+Location 729 Institute of Technology,729
+University of Location 730,730
+University of Location 731,731
+Location 732 Institute of Technology,732
+University of Location 733,733
+University of Location 734,734
+Location 735 Institute of Technology,735
+University of Location 736,736
+University of Location 737,737
+Location 738 Institute of Technology,738
+University of Location 739,739
+University of Location 740,740
+Location 741 Institute of Technology,741
+University of Location 742,742
+University of Location 743,743
+Location 744 Institute of Technology,744
+University of Location 745,745
+University of Location 746,746
+Location 747 Institute of Technology,747
+University of Location 748,748
+University of Location 749,749
+Location 750 Institute of Technology,750
+University of Location 751,751
+University of Location 752,752
+Location 753 Institute of Technology,753
+University of Location 754,754
+University of Location 755,755
+Location 756 Institute of Technology,756
+University of Location 757,757
+University of Location 758,758
+Location 759 Institute of Technology,759
+University of Location 760,760
+University of Location 761,761
+Location 762 Institute of Technology,762
+University of Location 763,763
+University of Location 764,764
+Location 765 Institute of Technology,765
+University of Location 766,766
+University of Location 767,767
+Location 768 Institute of Technology,768
+University of Location 769,769
+University of Location 770,770
+Location 771 Institute of Technology,771
+University of Location 772,772
+University of Location 773,773
+Location 774 Institute of Technology,774
+University of Location 775,775
+University of Location 776,776
+Location 777 Institute of Technology,777
+University of Location 778,778
+University of Location 779,779
+Location 780 Institute of Technology,780
+University of Location 781,781
+University of Location 782,782
+Location 783 Institute of Technology,783
+University of Location 784,784
+University of Location 785,785
+Location 786 Institute of Technology,786
+University of Location 787,787
+University of Location 788,788
+Location 789 Institute of Technology,789
+University of Location 790,790
+University of Location 791,791
+Location 792 Institute of Technology,792
+University of Location 793,793
+University of Location 794,794
+Location 795 Institute of Technology,795
+University of Location 796,796
+University of Location 797,797
+Location 798 Institute of Technology,798
+University of Location 799,799
+University of Location 800,800
+Location 801 Institute of Technology,801
+University of Location 802,802
+University of Location 803,803
+Location 804 Institute of Technology,804
+University of Location 805,805
+University of Location 806,806
+Location 807 Institute of Technology,807
+University of Location 808,808
+University of Location 809,809
+Location 810 Institute of Technology,810
+University of Location 811,811
+University of Location 812,812
+Location 813 Institute of Technology,813
+University of Location 814,814
+University of Location 815,815
+Location 816 Institute of Technology,816
+University of Location 817,817
+University of Location 818,818
+Location 819 Institute of Technology,819
+University of Location 820,820
+University of Location 821,821
+Location 822 Institute of Technology,822
+University of Location 823,823
+University of Location 824,824
+Location 825 Institute of Technology,825
+University of Location 826,826
+University of Location 827,827
+Location 828 Institute of Technology,828
+University of Location 829,829
+University of Location 830,830
+Location 831 Institute of Technology,831
+University of Location 832,832
+University of Location 833,833
+Location 834 Institute of Technology,834
+University of Location 835,835
+University of Location 836,836
+Location 837 Institute of Technology,837
+University of Location 838,838
+University of Location 839,839
+Location 840 Institute of Technology,840
+University of Location 841,841
+University of Location 842,842
+Location 843 Institute of Technology,843
+University of Location 844,844
+University of Location 845,845
+Location 846 Institute of Technology,846
+University of Location 847,847
+University of Location 848,848
+Location 849 Institute of Technology,849
+University of Location 850,850
+University of Location 851,851
+Location 852 Institute of Technology,852
+University of Location 853,853
+University of Location 854,854
+Location 855 Institute of Technology,855
+University of Location 856,856
+University of Location 857,857
+Location 858 Institute of Technology,858
+University of Location 859,859
+University of Location 860,860
+Location 861 Institute of Technology,861
+University of Location 862,862
+University of Location 863,863
+Location 864 Institute of Technology,864
+University of Location 865,865
+University of Location 866,866
+Location 867 Institute of Technology,867
+University of Location 868,868
+University of Location 869,869
+Location 870 Institute of Technology,870
+University of Location 871,871
+University of Location 872,872
+Location 873 Institute of Technology,873
+University of Location 874,874
+University of Location 875,875
+Location 876 Institute of Technology,876
+University of Location 877,877
+University of Location 878,878
+Location 879 Institute of Technology,879
+University of Location 880,880
+University of Location 881,881
+Location 882 Institute of Technology,882
+University of Location 883,883
+University of Location 884,884
+Location 885 Institute of Technology,885
+University of Location 886,886
+University of Location 887,887
+Location 888 Institute of Technology,888
+University of Location 889,889
+University of Location 890,890
+Location 891 Institute of Technology,891
+University of Location 892,892
+University of Location 893,893
+Location 894 Institute of Technology,894
+University of Location 895,895
+University of Location 896,896
+Location 897 Institute of Technology,897
+University of Location 898,898
+University of Location 899,899
+Location 900 Institute of Technology,900
+University of Location 901,901
+University of Location 902,902
+Location 903 Institute of Technology,903
+University of Location 904,904
+University of Location 905,905
+Location 906 Institute of Technology,906
+University of Location 907,907
+University of Location 908,908
+Location 909 Institute of Technology,909
+University of Location 910,910
+University of Location 911,911
+Location 912 Institute of Technology,912
+University of Location 913,913
+University of Location 914,914
+Location 915 Institute of Technology,915
+University of Location 916,916
+University of Location 917,917
+Location 918 Institute of Technology,918
+University of Location 919,919
+University of Location 920,920
+Location 921 Institute of Technology,921
+University of Location 922,922
+University of Location 923,923
+Location 924 Institute of Technology,924
+University of Location 925,925
+University of Location 926,926
+Location 927 Institute of Technology,927
+University of Location 928,928
+University of Location 929,929
+Location 930 Institute of Technology,930
+University of Location 931,931
+University of Location 932,932
+Location 933 Institute of Technology,933
+University of Location 934,934
+University of Location 935,935
+Location 936 Institute of Technology,936
+University of Location 937,937
+University of Location 938,938
+Location 939 Institute of Technology,939
+University of Location 940,940
+University of Location 941,941
+Location 942 Institute of Technology,942
+University of Location 943,943
+University of Location 944,944
+Location 945 Institute of Technology,945
+University of Location 946,946
+University of Location 947,947
+Location 948 Institute of Technology,948
+University of Location 949,949
+University of Location 950,950
+Location 951 Institute of Technology,951
+University of Location 952,952
+University of Location 953,953
+Location 954 Institute of Technology,954
+University of Location 955,955
+University of Location 956,956
+Location 957 Institute of Technology,957
+University of Location 958,958
+University of Location 959,959
+Location 960 Institute of Technology,960
+University of Location 961,961
+University of Location 962,962
+Location 963 Institute of Technology,963
+University of Location 964,964
+University of Location 965,965
+Location 966 Institute of Technology,966
+University of Location 967,967
+University of Location 968,968
+Location 969 Institute of Technology,969
+University of Location 970,970
+University of Location 971,971
+Location 972 Institute of Technology,972
+University of Location 973,973
+University of Location 974,974
+Location 975 Institute of Technology,975
+University of Location 976,976
+University of Location 977,977
+Location 978 Institute of Technology,978
+University of Location 979,979
+University of Location 980,980
+Location 981 Institute of Technology,981
+University of Location 982,982
+University of Location 983,983
+Location 984 Institute of Technology,984
+University of Location 985,985
+University of Location 986,986
+Location 987 Institute of Technology,987
+University of Location 988,988
+University of Location 989,989
+Location 990 Institute of Technology,990
+University of Location 991,991
+University of Location 992,992
+Location 993 Institute of Technology,993
+University of Location 994,994
+University of Location 995,995
+Location 996 Institute of Technology,996
+University of Location 997,997
+University of Location 998,998
+Location 999 Institute of Technology,999
+University of Location 1000,1000

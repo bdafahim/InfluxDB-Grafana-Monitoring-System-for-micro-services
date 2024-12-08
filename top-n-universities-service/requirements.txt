@@ -1,5 +1,4 @@
 flask
 requests
 pandas
-prometheus_client
 influxdb-client

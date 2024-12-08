@@ -15,7 +15,7 @@ services:
       - RANKING_UPLOADER_URL=http://ranking-uploader:4200/rankings
       - INFLUXDB_URL=http://influxdb-service-sdx-assignment-ahmedbad.2.rahtiapp.fi:8086
       - TOP_N=5
-      - INFLUXDB_TOKEN=my-token
+      - INFLUXDB_TOKEN=n8oq7g0atJjfvnGVrFjSIOecH2qq20DyNDtanHpp5JQnChGsLJYpaRvx5nXqCZc3QrntRxePjcy9zMCPzt4_lQ==
       - INFLUXDB_ORG=my-org
       - INFLUXDB_BUCKET=my-bucket
     ports:

@@ -40,7 +40,7 @@ spec:
         persistentVolumeClaim:
           claimName: influxdb-data-pvc
       - name: influxdb-config
-        emptyDir: {}  # Temporary storage for configuration files (or use PVC if needed)
+        emptyDir: {} 
 
 ---
 apiVersion: v1
