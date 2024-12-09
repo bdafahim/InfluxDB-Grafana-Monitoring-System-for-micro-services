@@ -20,8 +20,7 @@ oc CLI installed and configured.
 Docker for local development.
 
 ## Setup and Deployment
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/bdafahim/Final-Project-SDS.git
 
 ## Build and Push Docker Images
 
