@@ -87,3 +87,9 @@ Select which range of data you want to see
 
 ## Architecture diagram
 ![Architecture Diagram](https://raw.githubusercontent.com/bdafahim/Final-Project-SDS/main/ARCH.drawio.png)
+
+## InfluxDB dashboard
+![InfluxDB Dashboard](https://raw.githubusercontent.com/bdafahim/Final-Project-SDS/main/Influxdb%20dashboard.png)
+
+## Grafana dashboard
+![InfluxDB Dashboard](https://raw.githubusercontent.com/bdafahim/Final-Project-SDS/main/Grafana%20Dashboard.png)
