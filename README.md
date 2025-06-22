@@ -20,7 +20,7 @@ oc CLI installed and configured.
 Docker for local development.
 
 ## Setup and Deployment
-git clone https://github.com/bdafahim/Final-Project-SDS.git
+git clone https://github.com/bdafahim/InfluxDB-Grafana-Monitoring-System-for-micro-services.git
 
 ## Build and Push Docker Images
 
